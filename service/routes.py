@@ -15,5 +15,7 @@ def delete_product(id):
 
 @app.route('/products', methods=['GET'])
 def list_products():
-    # Add filters for name, category, availability
+    LIST ALL,
+    LIST BY NAME,
+    LIST BY CATEGORY;
     pass
